@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyaelivinothgithub
-- I’m interested in showcasing my various projects on machine learning, neural networking, data science projects.
+- I’m interested in showcasing my various projects on sql, machine learning and various data science projects.
 - Happy learning :)
 
 
